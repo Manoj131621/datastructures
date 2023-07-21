@@ -1,0 +1,14 @@
+class Solution{
+        
+    static int search(int arr[], int N, int X)
+    {
+        
+        // Your code here
+        for(int i=0;i<N;i++){ //TL-O(N) SL-O(1)
+            if(arr[i]==X)
+            return i;
+        }
+        return -1;
+    }
+    
+}

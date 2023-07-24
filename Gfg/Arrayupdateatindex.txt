@@ -1,0 +1,7 @@
+class UpdateArray{
+    public static void updateArray(int arr[],int index,int element){
+        if(index<=arr.length-1)
+        arr[index]=element;
+    }
+}
+//TL O(1) SL O(1)

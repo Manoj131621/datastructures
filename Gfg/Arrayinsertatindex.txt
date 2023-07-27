@@ -6,5 +6,5 @@ class Solution{
         arr[index]=element;
     }
 }
-//TL-O(N)
+//TL-O(N) we can modify the program
 //SL-O(1)

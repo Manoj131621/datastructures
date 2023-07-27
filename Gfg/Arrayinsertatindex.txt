@@ -7,4 +7,4 @@ class Solution{
     }
 }
 //TL-O(N) we can modify the program
-//SL-O(1)
+//SL-O(1) here alse we can modify the program
